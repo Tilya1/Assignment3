@@ -101,7 +101,7 @@ Binary search relies on the property that if the target is less than the middle 
 
 ### Binary Search Performance (Sorted Arrays)
 
-| Array Size | First Element (μs) | Middle Element (μs) | Last Element (μs) | Not Found (μs) |
+| Array Size | First Element (ms) | Middle Element (ms) | Last Element (ms) | Not Found (ms) |
 |------------|-------------------|---------------------|-------------------|----------------|
 | 10         | 2.29              | 1.33                | 0.94              | 1.09           |
 | 100        | 1.12              | 1.46                | 0.99              | 1.06           |
