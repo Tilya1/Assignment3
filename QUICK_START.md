@@ -80,7 +80,7 @@ git commit -m "feat(experiment): added performance measurement system"
 git add src/Main.java
 git commit -m "feat(main): created main program flow"
 
-git add README.md
+git add README!.md
 git commit -m "docs(readme): added comprehensive analysis and documentation"
 
 git commit -m "test: verified algorithm correctness and performance"

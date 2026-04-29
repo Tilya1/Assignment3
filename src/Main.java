@@ -63,7 +63,7 @@ public class Main {
         System.out.println("  4. Binary Search is extremely fast on sorted arrays");
         System.out.println("  5. Time complexity theory matches practical results");
         System.out.println();
-        System.out.println("For detailed analysis, see README.md");
+        System.out.println("For detailed analysis, see README!.md");
         System.out.println();
     }
 }
